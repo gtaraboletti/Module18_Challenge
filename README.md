@@ -1,1 +1,55 @@
-# Module18_ChallengeUNCC FinTech Boot Camp Module 18 Homework Challenge## Screen Shots ### Image 1: Streamlit Page, User Input Fields ### Image 2: Streamlit Page, Sidebar and DataFrame Comparison ### Image 3: Streamlit Page, Validate Chain (True) ## Imports import streamlit as stfrom dataclasses import dataclassfrom typing import Any, Listimport datetime as datetimeimport pandas as pdimport hashlib## Contributors Giselle Taraboletti UNCC FinTech Boot Camp## License ##MIT LicenseCopyright (c) [year] [fullname]Permission is hereby granted, free of charge, to any person obtaining a copyof this software and associated documentation files (the "Software"), to dealin the Software without restriction, including without limitation the rightsto use, copy, modify, merge, publish, distribute, sublicense, and/or sellcopies of the Software, and to permit persons to whom the Software isfurnished to do so, subject to the following conditions:The above copyright notice and this permission notice shall be included in allcopies or substantial portions of the Software.THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHERLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THESOFTWARE.
+# Module18_Challenge
+UNCC FinTech Boot Camp Module 18 Homework Challenge
+
+
+## Screen Shots 
+
+### Image 1: Streamlit Page, User Input Fields 
+
+![m18_image1](https://user-images.githubusercontent.com/89159824/147793132-4c5e7389-05e9-4464-a213-6f8f6ada56d0.png)
+
+### Image 2: Streamlit Page, Sidebar and DataFrame Comparison 
+
+![m18_image2](https://user-images.githubusercontent.com/89159824/147793134-b00d1bd8-0cf1-4e05-a6d4-acb31d6da173.png)
+
+### Image 3: Streamlit Page, Validate Chain (True) 
+
+![m18_image3_validation](https://user-images.githubusercontent.com/89159824/147793137-69b46041-927c-45a3-a1ec-123e7655032d.png)
+
+## Imports 
+
+import streamlit as st
+from dataclasses import dataclass
+from typing import Any, List
+import datetime as datetime
+import pandas as pd
+import hashlib
+
+## Contributors 
+
+Giselle Taraboletti 
+UNCC FinTech Boot Camp
+
+## License ##
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
